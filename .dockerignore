@@ -1,0 +1,27 @@
+# Data & notebooks
+data/
+datasets/
+*.csv
+*.parquet
+*.zip
+*.ipynb
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git & IDE
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# Virtual envs
+venv/
+.env/
+
+# OS junk
+.DS_Store
+Thumbs.db
